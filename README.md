@@ -1,3 +1,3 @@
 # skincaredesign
 just a simple design
-feel free to use the design 
+feel free to use it
